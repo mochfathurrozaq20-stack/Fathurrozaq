@@ -1,5 +1,5 @@
   body {
-      background.color: #FFFFE0; /* Warna Kuning Cerah */
+      background-color: #FFFFE0; /* Warna Kuning Cerah */
       font-family: Times New Roman, sans-serif; /* Jenis huruf yang bersih dan mudah dibaca */
       color: #191970; /* Warna teks utama (Biru Gelap) */
   }
@@ -15,6 +15,6 @@
 
 
   .kartu.profil img {
-        widht: 150px;
+        width: 150px;
         border-radius: 50%; /* trik untuk membuat gambar persegi menjadi lingkaran sempurna */
   }
